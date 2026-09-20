@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cd84b040314c966abae4f67a",
+  "owner": "jmsumq",
+  "repo": "page-33cabce43b331c9f0240d305",
+  "title": "百草园(NSFWCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "33cabce43b331c9f0240d305",
+      "a": "百草园(NSFWCloud)",
+      "b": "2027最新官网",
+      "entity": "百草园(NSFWCloud)",
+      "brand": "百草园(NSFWCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4dcdf77a14bac86b09dd72b1fa4645409d2a8d0566bbc9e255c3355cf854c61d",
+      "content": {
+        "primary_entity": "百草园(NSFWCloud)",
+        "keyword1": "百草园(NSFWCloud)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择订阅客户端，按对应文档导入配置即可。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐后按设备导入订阅，即可开始使用百草园(NSFWCloud)加速服务。",
+          "AI_CLOSING_TITLE": "按设备选套餐，轻松上手",
+          "AI_DESCRIPTION": "，百草园(NSFWCloud)提供基础版、旗舰版与团队版三档套餐，月流量从100GB到1000GB，在线设备数从3台到20台，适合个人多设备、家庭共享或小型团队协作等不同场景。可按自身设备数量和流媒体、游戏加速需求选择，再配合对应客户端导入订阅使用。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度了解百草园(NSFWCloud)的选择方式。",
+          "AI_FEATURES_TITLE": "套餐与选择特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备；旗舰版300GB、5台设备；团队版1000GB、20台设备，按流量和并发需求挑选。",
+          "AI_FEATURE_TEXT_2": "年付比月付更省：基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用可选年付方案。",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线游戏加速与原生流媒体解锁，团队版提供VIP高带宽节点与企业定制路由，按用途匹配档位。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "进阶线路与权益",
+          "AI_GUIDE_INTRO": "先按设备与流量确定套餐，再查看适配要求并完成订阅导入。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "百草园(NSFWCloud)面向个人与团队提供多档海外加速套餐，月流量100GB至1000GB、在线设备3台至20台，按设备数量和用途选择方案，再配合客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "在线设备3台至20台可选",
+          "AI_HIGHLIGHT_3": "年付方案降低长期使用成本",
+          "AI_PLANS_INTRO": "基础版¥15/月含100GB与3台设备；旗舰版¥35/月含300GB、5台设备与IPLC游戏加速；团队版¥85/月含1000GB与20台设备。年付分别¥150、¥350、¥850，可按设备数和用途对比选择。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，从基础版、旗舰版、团队版中选出适合的套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统、同时在线的设备数量以及是否需要流媒体解锁或游戏加速等适配要求。",
+          "AI_STEP_TEXT_3": "参照所选客户端的配置文档，导入订阅信息并完成连接设置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入客户端订阅",
+          "AI_VISUAL_TITLE": "百草园套餐选择与使用",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "百草园(NSFWCloud)三档套餐有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并带IPLC专线；团队版每月1000GB、20台设备且支持企业定制路由。按设备数和流量需求选择即可。",
+          "AI_FAQ_QUESTION_2": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元相当于月均12.5元，旗舰版年付350元相当于月均约29元，团队版年付850元相当于月均约71元，均低于对应月付价格。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_3": "按同一账号同时保持连接的不同设备数计算。基础版3台、旗舰版5台、团队版20台，超出上限时可能影响正常使用。",
+          "AI_FAQ_QUESTION_4": "IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版包含IPLC专线并做游戏加速优化，适合对延迟较敏感的实时对战和大文件传输。团队版则提供VIP高带宽节点。",
+          "AI_FAQ_QUESTION_5": "订阅地址如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "获取订阅地址后，在对应客户端中选择从链接或订阅导入，粘贴地址并更新节点列表即可。具体菜单名称可查看该客户端的配置文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bdwlcu.cn",
+    "host": "bdwlcu.cn"
+  },
+  "file_hashes": {
+    "index.html": "d098bf162ec8322fd5545c37c691bfec34744a961e3be6a7a80f195adb1f46a3",
+    "sitemap.xml": "a8b71b365b3893d80945a7f5ac22b4edf28257f306490f82b4a62c55220a20e5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bfc1f90c1c016bb72dcd539a5220afc801e3fc04b850b79db5d8e8abdb334b4f",
+    "robots.txt": "8f797e01571d4c27941ca4e3020355141c8b9a25d309fbde471d5e24c1b68a8e",
+    "d2fc695837440311d6057ae06491817e.txt": "31edfc9eaa4fe815985c72065ce4cba4a5cd5a8a68f56a407b9c99785cc2641d"
+  },
+  "revision": "87e5df30122944da8b230bcf558dc967bb8d61f523a8a6c5859907e28d1c41c5"
+}
